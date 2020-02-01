@@ -62,7 +62,10 @@ crashlytics-build.properties
 .git
 
 # other
-SadStory/Temp/UnityLockfile 
-
+SadStory/Temp/UnityLockfile
+SadStory/Library/ShaderCache/
+SadStory/Library/metadata/
+SadStory/Temp/UnityTempFile*
+SadStory/obj/Debug/
 
 
