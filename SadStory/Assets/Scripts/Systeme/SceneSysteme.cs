@@ -18,13 +18,14 @@ public class SceneSysteme : MonoBehaviour
     {
         UIAtor = this.GetComponent<Animator>();
         actualSceneManager = GetAnimManager(actualSceneIndex);
+
     }
 
     // Update is called once per frame
     void Update()
     {
         SceneManager();
-        ValidScene();
+        //ValidScene();
     }
 
     void SceneManager()
